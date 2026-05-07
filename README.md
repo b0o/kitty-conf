@@ -2,6 +2,6 @@
 
 ## License
 
-&copy; 2023 Maddison Hellstrom
+&copy; 2023 Maddison Cohodas
 
 MIT License
